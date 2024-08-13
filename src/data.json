@@ -1,0 +1,133 @@
+{
+    "csv": [
+        {
+            "name": "Afghanistan",
+            "year": 1950,
+            "population": 132771100,
+            "region": "Asia"
+        },
+        {
+            "name": "Afghanistan",
+            "year": 1951,
+            "population": 132770100,
+            "region": "Asia"
+        },
+        {
+            "name": "Afghanistan",
+            "year": 1952,
+            "population": 132771100,
+            "region": "Asia"
+        },
+        
+        {
+            "name": "Africa",
+            "year": 1950,
+            "population": 129526445,
+            "region": null
+        },
+        {
+            "name": "Africa",
+            "year": 1951,
+            "population": 901764501,
+            "region": null
+        },
+        
+        {
+            "name": "Africa",
+            "year": 1952,
+            "population": 1277041100,
+            "region": null
+        },
+        
+        {
+            "name": "Thai",
+            "year": 1950,
+            "population": 16546900,
+            "region": null
+        },
+        {
+            "name": "Thai",
+            "year": 1951,
+            "population": 992771100,
+            "region": null
+        },
+        {
+            "name": "Thai",
+            "year": 1952,
+            "population": 327701100,
+            "region": null
+        },
+        {
+            "name": "Japan",
+            "year": 1950,
+            "population": 16546900,
+            "region": null
+        },
+        {
+            "name": "Japan",
+            "year": 1951,
+            "population": 9992771100,
+            "region": null
+        },
+        {
+            "name": "Japan",
+            "year": 1952,
+            "population": 1327701100,
+            "region": null
+        },
+        {
+            "name": "India",
+            "year": 1950,
+            "population": 165469000,
+            "region": null
+        },
+        {
+            "name": "India",
+            "year": 1951,
+            "population": 9927711000,
+            "region": null
+        },
+        {
+            "name": "India",
+            "year": 1952,
+            "population": 1327011000,
+            "region": null
+        },
+        {
+            "name": "India",
+            "year": 1950,
+            "population": 165469000,
+            "region": null
+        },
+        {
+            "name": "India",
+            "year": 1951,
+            "population": 9927711000,
+            "region": null
+        },
+        {
+            "name": "India",
+            "year": 1952,
+            "population": 1277011000,
+            "region": null
+        },
+        {
+            "name": "India",
+            "year": 1950,
+            "population": 15469000,
+            "region": null
+        },
+        {
+            "name": "India",
+            "year": 1951,
+            "population": 927711000,
+            "region": null
+        },
+        {
+            "name": "India",
+            "year": 1952,
+            "population": 177011000,
+            "region": null
+        }
+    ]
+}
